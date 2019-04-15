@@ -1,0 +1,45 @@
+Locaux : 
+1 bâtiment
+5 salles
+
+
+15 personne pro
+1 admin
+3 rh
+5 imprimantes
+
+Une salle serveurs avec 5 machines
+
+serveurs : 
+WEB HTTP 
+
+DHCP pro
+DHCP rh
+
+MAIL IMAP ?
+DNS
+
+VPN
+FIREWALL FRONTAL 
+
+
+VLAN 1010 RH
+VLAN 1020 PRO
+VLAN 1000 ADMIN 
+
+10.10.0.0
+10.10.10.0
+10.10.20.0
+
+VLAN 2000 Serveurs
+
+10.20.0.0
+
+
+
+
+
+ASA cisco
+
+FIREWALL :
+pfsense open sense
